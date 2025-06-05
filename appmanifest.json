@@ -1,0 +1,10 @@
+{
+	"name": "Cupcake Shop",
+	"short_name": "Cupcake Shop",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
